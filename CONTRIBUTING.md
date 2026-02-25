@@ -79,6 +79,13 @@ Then, you can run workflows locally without having to commit and see if the GitH
 act -W .github/workflows/release.yml --input_type bump=minor
 ```
 
+ ## Authorship Policy
+
+All code in this repository is written and reviewed by humans. AI-generated code (e.g., Copilot, ChatGPT,
+Claude, etc.) is not permitted unless explicitly disclosed and approved.
+
+Submissions must certify that the contributor understands and can maintain the code they submit.
+
 ## Questions? Reach out to me!
 
 If you encounter any questions while developing MeshExec, please don't hesitate to reach out to me at 
